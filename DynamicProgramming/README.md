@@ -4,10 +4,10 @@ This directory contains LeetCode solutions for problems related to **DynamicProg
 
 ## Folder Structure
 
-- `C_Solutions/`: Contains solutions written in C.
+- [`C_Solutions/`](C_Solutions/): Contains solutions written in C.
 
 ## Solutions
 
 ### C_Solutions
-- `LC509.c`
+- [`LC509.c`](C_Solutions/LC509.c)
 

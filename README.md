@@ -40,16 +40,20 @@ My long-term goal is to work in:
 
 ## 🗂️ Repository Structure
 
-```text
-LeetCode-DSA/
-│
-├── Arrays/
-├── Stack/
-├── Queue/
-├── SlidingWindow/
-├── BinarySearch/
-├── MonotonicStack/
-├── Trees/
-├── Graphs/               (upcoming)
-├── DynamicProgramming/   (upcoming)
-└── README.md
+LeetCode-DSA/<br>
+│<br>
+├── 📁 [Arrays/](Arrays/)<br>
+├── 📁 [BFS/](BFS/)<br>
+├── 📁 [BinarySearch/](BinarySearch/)<br>
+├── 📁 [DFS/](DFS/)<br>
+├── 📁 [DynamicProgramming/](DynamicProgramming/)<br>
+├── 📁 [Graphs/](Graphs/)<br>
+├── 📁 [LinkedList/](LinkedList/)<br>
+├── 📁 [MonotonicStack/](MonotonicStack/)<br>
+├── 📁 [PrefixSum/](PrefixSum/)<br>
+├── 📁 [Queue/](Queue/)<br>
+├── 📁 [SlidingWindow/](SlidingWindow/)<br>
+├── 📁 [Stack/](Stack/)<br>
+├── 📁 [Trees/](Trees/)<br>
+├── 📁 [Union Find/](Union%20Find/)<br>
+└── 📜 [README.md](README.md)
