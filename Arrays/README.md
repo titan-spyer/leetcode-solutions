@@ -11,7 +11,8 @@ This directory contains LeetCode solutions for problems related to **Arrays**.
 ## Solutions
 
 ### C++_Solutions
-- `LC1929.cpp`
+- `LC1929.cpp` : TO be Submitted on LeetCode
+- `LC1470.cpp` : TO be Submitted On LeectCode
 
 ### C_Solutions
 - `LC151.c`
