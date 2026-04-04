@@ -11,4 +11,5 @@ This directory contains LeetCode solutions for problems related to **Union FInd*
 ### Python_Solutions
 - [`LC1319.py`](python_solution/[LC1319.py](python_solution/LC1319.py)) : To be Submitted
 - [`LC684.py`](python_solution/[LC684.py](python_solution/LC684.py)) : TO be Submitted
+- [`LC721.py`](python_solution/[LC684.py](python_solution/LC721.py)) : TO be Submitted
 

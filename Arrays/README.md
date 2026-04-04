@@ -22,6 +22,7 @@ This directory contains LeetCode solutions for problems related to **Arrays**.
 - [`LC344.c`](C_Solutions/LC344.c)
 - [`LC345.c`](C_Solutions/LC345.c)
 - [`LC896.c`](C_Solutions/LC896.c)
+- [`LC231.c`](C_Solutions/LC231.c) : String question || To be submitted on Github
 
 ### Python_Solutions
 - [`LC1.py`](Python_Solutions/LC1.py)

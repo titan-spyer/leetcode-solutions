@@ -1,4 +1,4 @@
-# LC 210: Course Schedule.
+# LC 210: Course Schedule II.
 from typing import List
 from collections import deque
 
