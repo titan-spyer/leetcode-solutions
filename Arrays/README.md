@@ -13,7 +13,8 @@ This directory contains LeetCode solutions for problems related to **Arrays**.
 ### C++_Solutions
 - [`LC1929.cpp`](C++_Solutions/LC1929.cpp) 
 - [`LC1470.cpp`](C++_Solutions/LC1470.cpp) 
-- [`LC485.cpp`](C++_Solutions/LC485.cpp) : TO be Submitted on LeetCode
+- [`LC485.cpp`](C++_Solutions/LC485.cpp) 
+- [`LC645.cpp`](C++_Solutions/LC645.cpp) 
 
 ### C_Solutions
 - [`LC151.c`](C_Solutions/LC151.c)
@@ -22,7 +23,7 @@ This directory contains LeetCode solutions for problems related to **Arrays**.
 - [`LC344.c`](C_Solutions/LC344.c)
 - [`LC345.c`](C_Solutions/LC345.c)
 - [`LC896.c`](C_Solutions/LC896.c)
-- [`LC231.c`](C_Solutions/LC231.c) : String question || To be submitted on Github
+- [`LC231.c`](C_Solutions/LC231.c) 
 
 ### Python_Solutions
 - [`LC1.py`](Python_Solutions/LC1.py)
