@@ -14,7 +14,8 @@ This directory contains LeetCode solutions for problems related to **Arrays**.
 - [`LC1929.cpp`](C++_Solutions/LC1929.cpp) 
 - [`LC1470.cpp`](C++_Solutions/LC1470.cpp) 
 - [`LC485.cpp`](C++_Solutions/LC485.cpp) 
-- [`LC645.cpp`](C++_Solutions/LC645.cpp) 
+- [`LC645.cpp`](C++_Solutions/LC645.cpp)
+- [`LC1365.cpp`](C++_Solutions/LC1365.cpp) 
 
 ### C_Solutions
 - [`LC151.c`](C_Solutions/LC151.c)
