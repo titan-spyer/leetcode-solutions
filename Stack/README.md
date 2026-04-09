@@ -15,4 +15,5 @@ This directory contains LeetCode solutions for problems related to **Stack**.
 ### C++ Solution
 - [`LC1441.cpp`](C++_solution/LC1441.cpp)
 - [`LC150.cpp`](C++_solution/LC150.cpp)
+- [`LC636.cpp`](C++_solution/LC636.cpp)
 
