@@ -13,5 +13,5 @@ This directory contains LeetCode solutions for problems related to **BFS**.
 - [`LC210.py`](Python_Solutions/LC210.py)
 - [`LC994.py`](Python_Solutions/LC994.py)
 - [`LC1462.py`](Python_Solutions/LC1462.py)
-- [`LC310.py`](Python_Solutions/LC310.py) : To be Updated to LeetCode || Github
+- [`LC310.py`](Python_Solutions/LC310.py)
 
