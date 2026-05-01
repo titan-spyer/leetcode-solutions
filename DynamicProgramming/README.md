@@ -11,3 +11,6 @@ This directory contains LeetCode solutions for problems related to **DynamicProg
 ### C_Solutions
 - [`LC509.c`](C_Solutions/LC509.c)
 
+### Python_solution
+- [`LC396.py`](Python_solution/LC396.py)
+
