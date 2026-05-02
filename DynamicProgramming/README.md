@@ -13,4 +13,5 @@ This directory contains LeetCode solutions for problems related to **DynamicProg
 
 ### Python_solution
 - [`LC396.py`](Python_solution/LC396.py)
+- [`LC788.py`](Python_solution/LC788.py) || Rotate Digits
 
