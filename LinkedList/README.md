@@ -17,4 +17,5 @@ This directory contains LeetCode solutions for problems related to **LinkedList*
 - [`LC234.py`](Python_Solutions/LC234.py)
 - [`LC24.py`](Python_Solutions/LC24.py)
 - [`LC86.py`](Python_Solutions/LC86.py)
+- [`LC61.py`](Python_Solutions/LC61.py) || Rotate List
 
