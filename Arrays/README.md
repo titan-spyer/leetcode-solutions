@@ -40,5 +40,6 @@ This directory contains LeetCode solutions for problems related to **Arrays**.
 - [`LC566.py`](Python_Solutions/LC566.py)
 - [`LC724.py`](Python_Solutions/LC724.py)
 - [`LC73.py`](Python_Solutions/LC73.py)
+- [`LC1861.py`](Python_Solutions/LC1861.py) || Rotating the Box
 - [`test.py`](Python_Solutions/test.py)
 
