@@ -14,4 +14,5 @@ This directory contains LeetCode solutions for problems related to **BFS**.
 - [`LC994.py`](Python_Solutions/LC994.py)
 - [`LC1462.py`](Python_Solutions/LC1462.py)
 - [`LC310.py`](Python_Solutions/LC310.py)
+- [`LC3629.py`](Python_Solutions/LC3629.py) || Minimum Jumps to Reach end via Prime Teleportation
 

@@ -2,7 +2,7 @@
 
 from typing import List
 
-Solution 1 time complexity O(m x n) space complexity O(m x n)
+# Solution time complexity O(m x n) space complexity O(m x n)
 class Solution:
     def rotateTheBox(self, boxGrid: List[List[str]]) -> List[List[str]]:
         # Solve it in two phase.

@@ -1,0 +1,8 @@
+.vscode/
+Test.py
+__pycache__/
+.venv/
+venv/
+.vscode/
+.venv-*/
+.venv-1/
