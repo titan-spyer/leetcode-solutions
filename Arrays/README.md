@@ -41,5 +41,6 @@ This directory contains LeetCode solutions for problems related to **Arrays**.
 - [`LC724.py`](Python_Solutions/LC724.py)
 - [`LC73.py`](Python_Solutions/LC73.py)
 - [`LC1861.py`](Python_Solutions/LC1861.py) || Rotating the Box
+- [`LC2553.py`](Python_Solution/LC2553.py) || Separate the digits in an array
 - [`test.py`](Python_Solutions/test.py)
 
